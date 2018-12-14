@@ -1,0 +1,71 @@
+body {
+  background: #000000 url("site_background.jpg") no-repeat fixed center;
+  height: 100%;
+  width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+.whitebackground {
+  background: white;
+  margin-left: 20%;
+  margin-right: 20%;
+  padding-top: 60px;
+  padding-bottom: 14px;
+  width: 758px; /*60%*/
+  height: 100%;
+}
+
+.general-text-box {
+  margin-left: 2%;
+  height: 60%;
+  width: 88%;           /*88% av föregående div'ens width*/
+}
+
+.bigheadline {
+  font-size: 4em;
+  margin-left: 1%;
+  margin-right: 1%;
+  border-bottom: 1px solid grey;
+}
+
+h1.Arial {
+  font-family: Arial;
+  margin-top: 5px;
+  margin-bottom: -5px;
+}
+
+h1.CenteredHeadline {
+  text-align: center;
+  font-family: Arial;
+}
+
+p {
+  font-family: helvetica;
+  font-size: 98%;
+  margin-bottom: 1em;
+  margin-top: 2px;
+}
+
+h2 {                                /*h2 ska inte ha samma font som resten av texterna*/
+  padding-top: 2%;
+  border-bottom: 1px solid grey;
+  margin-bottom: 2px;
+}
+
+div.section {
+  width: 100%;
+}
+
+.picdiv {
+  margin-top: 5px;
+  margin-left: 6px;
+  margin-bottom: -10px; /*skrivs in i individuella ID't för bilden*/
+  float: right;
+  text-align: center;
+  font-size: small;
+  color: grey;
+  max-height: 430px;
+}

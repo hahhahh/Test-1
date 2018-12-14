@@ -1,0 +1,24 @@
+#worldmap {
+  width: 98%;
+  height: 400px;
+  margin-top: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+}
+
+#TitaniaDocks {
+  height: 200px;
+  width: 300px;
+
+}
+
+#Mutatedarm {
+  height:150px;
+  width: 300px;
+}
+
+#Armatizaion {
+  height: 230px;
+  width: 300px;
+}

@@ -1,0 +1,22 @@
+generalstyle.css, Menustyle.css och site_background.jpg finns i   /Content/All
+
+
+
+All_characters.html och characters.css finns i   /Content/Characters
+
+
+
+Alla charactername.html finns i   /Content/Characters/charactername
+
+
+
+Gameplay.html och Gameplay.css ligger i   /Content/Game/Gameplay
+
+
+
+BerseriaSTORY.html och BerseriaSTORY.css finns i   /Content/Game/Story
+
+
+
+BerseriaHOME.css finns i   /Content/HOME
+

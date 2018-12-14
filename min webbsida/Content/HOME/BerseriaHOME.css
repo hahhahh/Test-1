@@ -1,0 +1,22 @@
+#covertextbox { /*används för texten bredvid bilden på första sidan*/
+  float: left;
+  margin-left: 2%;
+  margin-bottom: 1em;
+  width: 46%;
+  background: white;
+
+}
+
+#coverpicture {
+  width: 23.8em;
+  height: 11.9em;
+  border: 1px solid #000000;
+}
+
+iframe {
+  height: 22.4em;
+  width: 39.9em;
+  margin: 1%;
+  margin-left: 7%;
+  margin-right: 7%;
+}

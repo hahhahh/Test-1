@@ -1,0 +1,177 @@
+.character-page-link {
+  width: 9.6875em;
+  margin: 0.625em;
+  vertical-align: top;
+  position: static;
+  display: inline-block;
+}
+
+#characters {
+  table-layout: fixed;
+  word-wrap: break-word;
+}
+
+.character-pics {
+  height: 7.1875em;
+  width: 7.5625em;
+  border: 1.5px solid grey;
+  margin-bottom: -0.3125em;
+}
+
+.CategoryLetter {
+  font-size: 2.5em;
+  font-family: helvetica;
+  margin-left: 0.25em;
+  border-bottom: 1px solid grey;
+  width: 3.75em;
+}
+
+span.characterdetails {
+    background-color: #2d77ef;
+    border-bottom-right-radius: 0.5625em;
+    border-top-right-radius: 0.5625em;
+    color: #ffffff;
+    display: inline-block;
+    line-height: 1.1em;
+    margin-top: -2em;
+    max-height: 3em;
+    max-width: 20em;
+    overflow: hidden;
+    padding: 3px 13px 3px 10px;
+    position: static;
+    font-family: sans-serif;
+    font-size: 95%;
+}
+
+
+
+
+
+/*nedanför är grejer som har med infolådan till höger att göra*/
+
+#infobox {
+  background: #fafafa;
+  border-collapse: collapse;
+  color: #3a3a3a;
+  margin: 0.3125em 1em 1em 0;
+  width: 20.88em;
+  border: 1px solid #000000;
+  margin-left: 2%;
+  float: right;
+}
+
+#infopic {
+  height: 20.875em;
+  width: 12.5em;
+}
+
+.characterinfoHEADbox {
+  background: #CCCCFF;
+  text-align: center;
+}
+
+.characterinfoLEFTbox {
+  background: #CCCCFF;
+  border: 1px solid #000000;
+  min-width: 8.125em;
+  padding: 6px;
+}
+
+.characterinfoRIGHTbox {
+  background: #FFFFFF;
+  border: 1px solid #000000;
+  min-width: 8.75em;
+  padding: 6px;
+}
+
+.infoboxtext {
+  font-family: helvetica;
+  margin-bottom: 0.25em;
+
+}
+
+/*här tar det slut*/
+
+
+
+
+
+
+
+
+
+/*nedanför är saker som har med individuella character pages att göra*/
+
+
+/*Allt nedanför är velvets character page relaterat*/
+
+#Statuspic {        /*ändra namn och bilder så att de passar till texten*/
+  height: 252px;
+  width: 200px;
+  border: 1px solid #000000;
+}
+
+
+#Cut-in {       /*ändra namn och bilder så att de passar till texten*/
+  height: 192px;
+  width: 200px;
+  border: 1px solid #000000;
+  margin-left: 10px;
+}
+
+#breakSoul {        /*ändra namn och bilder så att de passar till texten*/
+  height: 238px;
+  width: 280px;
+  border: 1px solid #000000;
+  margin-left: 10px;
+}
+
+#Gate {
+  height: 200px;
+  width: 300px;
+  margin-left: 10px;
+}
+
+#endingpic {   /*lägg den här bilden i en div*/
+  height: 86px;
+  width: 220px;
+  border: 1px solid #000000;
+}
+
+#normalclothes {        /*ändra namn och bilder så att de passar till texten*/
+  height: 325px;
+  width: 240px;
+  border: 1px solid #000000;
+  margin-left: 10px;
+}
+
+
+
+iframe {
+  float: right;
+  height: 250px;
+  width: 400px;
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-bottom: 16px;
+}
+
+#specialIFRAME {
+  float: right;
+  height: 250px;
+  width: 400px;
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: 10px;
+  margin-bottom: 16px;
+}
+
+#EizenIFRAME {
+  float: right;
+  height: 250px;
+  width: 400px;
+  margin-top: 5px;
+  margin-left: 15px;
+  margin-right: -10px;
+  margin-bottom: 16px;
+}
